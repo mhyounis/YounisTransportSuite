@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'YounisTransport Suite'
+project = 'Younis Radiation Physics Suite'
 copyright = '2026, Muhsin H. Younis'
 author = 'Muhsin H. Younis'
 release = '0.1'
